@@ -37,22 +37,22 @@ Passionate <b>Java Backend Developer</b> with expertise in Java and a strong foc
 ## **Featured Projects**  
 
 #### 1. EpiScan [Source Code](https://github.com/yashvi-dobariya/EpiScan)  
-**Skin Disease Detection App**  
+- Skin Disease Detection App  
 - **Tech:** Flutter, TensorFlow  
 - Built using **CNN** for disease classification and **TensorFlow Lite** integration with Flutter.  
 
 #### 2. HostelEase [Source Code](https://github.com/yashvi-dobariya/HostelEase)  
-**Hostel Management App**  
+- Hostel Management App  
 - **Tech:** Flutter, Firebase  
 - Leave requests, complaint resolution, and food menu management.  
 
 #### 3. Dynamic Task Management [Source Code](https://github.com/yashvi-dobariya/TrackTask)  
-**Task Management App**  
+- Task Management App  
 - **Tech:** Flutter, Firebase  
 - Seamless task state management with **Riverpod** and Firebase.  
 
 #### 4. CaseWatch [Source Code](https://github.com/yashvi-dobariya/CaseWatch)  
-**COVID-19 Tracker**  
+- COVID-19 Tracker
 - **Tech:** REST API, Flutter  
 - Real-time COVID-19 updates using REST APIs.
 
