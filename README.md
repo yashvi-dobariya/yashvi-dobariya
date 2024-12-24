@@ -5,7 +5,8 @@
 Passionate <b>Java Backend Developer</b> with expertise in Java and a strong focus on scalable software development, adhering to best coding practices and standards to deliver high-performance solutions.  
 </p>
 
-<p><b>Software Engineer Intern at <a href="https://www.navaera.com/" target="_blank" style="text-decoration: none;">Navaera Software Services</a></b></p>
+**Software Engineer Intern #[Navaera Software Services](https://www.navaera.com/navaera.html)** <img src="https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/80464dd681b0dd63907c0c7b8794a00d" alt="Navaera Logo" width="30" height="30">
+
 
 
 ## Technologies & Skills 
@@ -58,10 +59,3 @@ Passionate <b>Java Backend Developer</b> with expertise in Java and a strong foc
 
 
 
-
-
-
-## **Let's Connect!**  
-🌐 [LinkedIn](https://www.linkedin.com/in/yashvi-dobariya-150ab5223) | 📫 [Email Me](mailto:yashvidobariya2003@gmail.com)  
-
-"Always learning, always innovating. Let's build the future together!" 🌟  
